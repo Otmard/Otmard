@@ -10,7 +10,7 @@
 
 - ✨ Student of life :)
 - 🔥 Mejorando mis habilidades en proyectos de desarrollo web.
-- 💻 Visit my [Portfolio](https://otmar.cat/) for more details about me.
+- 💻 Visit my [Portfolio](https://otmar.pro/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
