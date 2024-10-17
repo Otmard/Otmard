@@ -9,7 +9,7 @@
 <p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Javascript,Python, React.js, Node.js, NestJs, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
-- 🔥 Mejorando mis habilidades en proyectos de desarrollo web.
+- 🔥 Improving my skills in web development projects.
 - 💻 Visit my [Portfolio](https://otmar.pro/) for more details about me.
 <!--End Intro-->
 
